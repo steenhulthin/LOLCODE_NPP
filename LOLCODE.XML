@@ -10,27 +10,27 @@
             <Keywords name="Folder+">YARLY NOWAI</Keywords>
             <Keywords name="Folder-">KTHX KTHXX KTHXXX KTHXXXX KTHXXXXX</Keywords>
             <Keywords name="Operators"></Keywords>
-            <Keywords name="Comment"></Keywords>
-            <Keywords name="Words1"></Keywords>
-            <Keywords name="Words2"></Keywords>
-            <Keywords name="Words3"></Keywords>
+            <Keywords name="Comment"> 1OBTW 2TLDR 0BTW 0^^</Keywords>
+            <Keywords name="Words1">YARN NUMBR NUMBAR TROOF NOOB</Keywords>
+            <Keywords name="Words2">SUM OF DIFF PRODUKT QUOSHUNT MOD BIGGR SMALLR BOTH EITHER WON NOT ALL ANY SAEM DIFFRINT AN SMOOSH MKAY MAEK AND OR XOR </Keywords>
+            <Keywords name="Words3">BYES CAN HAS DIAF GIMMEH LINE WORD LETTAR VAR OUTTA GTFO HAI I A ITZ IM IN YR IM IN MAH IZ YARLY NOWAI KTHX KTHXBYE LOL R VISIBLE</Keywords>
             <Keywords name="Words4"></Keywords>
         </KeywordLists>
         <Styles>
-            <WordsStyle name="DEFAULT" styleID="11" fgColor="000000" bgColor="FFFFFF" fontStyle="0" />
-            <WordsStyle name="FOLDEROPEN" styleID="12" fgColor="000000" bgColor="FFFFFF" fontStyle="0" />
-            <WordsStyle name="FOLDERCLOSE" styleID="13" fgColor="000000" bgColor="FFFFFF" fontStyle="0" />
-            <WordsStyle name="KEYWORD1" styleID="5" fgColor="000000" bgColor="FFFFFF" fontStyle="0" />
-            <WordsStyle name="KEYWORD2" styleID="6" fgColor="000000" bgColor="FFFFFF" fontStyle="0" />
-            <WordsStyle name="KEYWORD3" styleID="7" fgColor="000000" bgColor="FFFFFF" fontStyle="0" />
-            <WordsStyle name="KEYWORD4" styleID="8" fgColor="000000" bgColor="FFFFFF" fontStyle="0" />
-            <WordsStyle name="COMMENT" styleID="1" fgColor="000000" bgColor="FFFFFF" fontStyle="0" />
-            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="000000" bgColor="FFFFFF" fontStyle="0" />
-            <WordsStyle name="NUMBER" styleID="4" fgColor="000000" bgColor="FFFFFF" fontStyle="0" />
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="000000" bgColor="FFFFFF" fontStyle="0" />
-            <WordsStyle name="DELIMINER1" styleID="14" fgColor="000000" bgColor="FFFFFF" fontStyle="0" />
-            <WordsStyle name="DELIMINER2" styleID="15" fgColor="000000" bgColor="FFFFFF" fontStyle="0" />
-            <WordsStyle name="DELIMINER3" styleID="16" fgColor="000000" bgColor="FFFFFF" fontStyle="0" />
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDEROPEN" styleID="12" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDERCLOSE" styleID="13" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD1" styleID="5" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD2" styleID="6" fgColor="FF00FF" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD3" styleID="7" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD4" styleID="8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="008080" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="408080" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FF00FF" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER1" styleID="14" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER2" styleID="15" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER3" styleID="16" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
         </Styles>
     </UserLang>
 </NotepadPlus>
