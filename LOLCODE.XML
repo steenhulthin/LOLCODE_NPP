@@ -1,19 +1,19 @@
 <NotepadPlus>
     <UserLang name="LOLCODE" ext="LOL">
         <Settings>
-            <Global caseIgnored="no" />
+            <Global caseIgnored="no" escapeChar=":" />
             <TreatAsSymbol comment="no" commentLine="no" />
             <Prefix words1="no" words2="no" words3="no" words4="no" />
         </Settings>
         <KeywordLists>
-            <Keywords name="Delimiters">000000</Keywords>
+            <Keywords name="Delimiters">&quot;00&quot;00</Keywords>
             <Keywords name="Folder+">YARLY NOWAI</Keywords>
-            <Keywords name="Folder-">KTHX KTHXX KTHXXX KTHXXXX KTHXXXXX</Keywords>
+            <Keywords name="Folder-">KTHX KTHXX KTHXXX KTHXXXX KTHXXXXX </Keywords>
             <Keywords name="Operators"></Keywords>
             <Keywords name="Comment"> 1OBTW 2TLDR 0BTW 0^^</Keywords>
             <Keywords name="Words1">YARN NUMBR NUMBAR TROOF NOOB</Keywords>
             <Keywords name="Words2">SUM OF DIFF PRODUKT QUOSHUNT MOD BIGGR SMALLR BOTH EITHER WON NOT ALL ANY SAEM DIFFRINT AN SMOOSH MKAY MAEK AND OR XOR </Keywords>
-            <Keywords name="Words3">BYES CAN HAS DIAF GIMMEH LINE WORD LETTAR VAR OUTTA GTFO HAI I A ITZ IM IN YR IM IN MAH IZ YARLY NOWAI KTHX KTHXBYE LOL R VISIBLE</Keywords>
+            <Keywords name="Words3">BYES CAN HAS DIAF GIMMEH LINE WORD LETTAR  OUTTA GTFO HAI I A ITZ IM IN YR IM IN MAH IZ YARLY NOWAI KTHX KTHXBYE LOL R VISIBLE</Keywords>
             <Keywords name="Words4"></Keywords>
         </KeywordLists>
         <Styles>
