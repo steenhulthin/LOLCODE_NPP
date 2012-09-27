@@ -8,18 +8,22 @@ HAI
 CAN I HAS TEH DOWNLOADZ_
 --------------------
 
-.. _DOWNLOADZ: http://LOLCATS.COM
+.. _DOWNLOADZ: https://github.com/steenhulthin/LOLCODE_NPP/downloads
 
 CAN I HAS TEH LISENSE_
 ----------------------
 
-.. _LISENSE: http://MIT.LICENSE.COM
+.. _LISENSE: http://opensource.org/licenses/mit-license.php
 
 CAN I HAS TEH MANPAGE_
 -----------------------
 
-.. _MANPAGE: HTTP://INSTALLINSTRUCTIONS.NOTEPAD-PLUS-PLUS.ORG
+.. _MANPAGE: https://sourceforge.net/apps/mediawiki/notepad-plus/index.php?title=User_Defined_Language_Files#How_to_install_user_defined_language_files
 
+CAN I HAS YR NOLOL BROTHA_
+---------------------------
+
+.. _BROTHA: https://github.com/steenhulthin/reStructuredText_NPP
 
 KTHXBAI
 -------
