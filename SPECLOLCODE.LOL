@@ -1,5 +1,5 @@
 HAI
-BTW ITZ TEST HILITE LOLCODE SPECS
+BTW ITZ TEST HILITE LOLCODE SPECS 1.2
 
 
 BTW BTWZ
@@ -67,12 +67,12 @@ O RLY?
     <code block>
   NO WAI
     <code block>
-OIC
+OIC 
 
 BOTH SAEM ANIMAL AN "CAT", O RLY?
   YA RLY, VISIBLE "J00 HAV A CAT"
   NO WAI, VISIBLE "J00 SUX"
-OIC
+OIC 
 
 <expression>
 O RLY?
@@ -94,6 +94,44 @@ O RLY?
     VISIBLE "NOM NOM NOM. I EATED IT."
 OIC
 
+
+<expression>
+WTF?
+  OMG <value literal>
+    <code block>
+ [OMG <value literal>
+    <code block> …]
+ [OMGWTF
+    <code block>]
+OIC
+
+COLOR, WTF?
+  OMG "R"
+    VISIBLE "RED FISH"
+    GTFO
+  OMG "Y"
+    VISIBLE "YELLOW FISH"
+  OMG "G"
+  OMG "B"
+    VISIBLE "FISH HAS A FLAVOR"
+    GTFO
+  OMGWTF
+    VISIBLE "FISH IS TRANSPARENT"
+OIC
+
+
+IM IN YR <label> <operation> YR <variable> [TIL|WILE <expression>]
+  <code block>
+IM OUTTA YR <label>
+UPPIN
+NERFIN
+
+
+HOW DUZ I <function name> [YR <argument1> [AN YR <argument2> …]]
+  <code block>
+IF U SAY SO
+FOUND YR <expression>
+GTFO
 
 
 
