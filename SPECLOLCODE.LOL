@@ -27,6 +27,8 @@ I HAS A VAR          BTW VAR is null and untyped
 VAR R "THREE"        BTW VAR is now a YARN and equals "THREE"
 VAR R 3              BTW VAR is now a NUMBR and equals 3
 
+I HAS A VAR ITZ "LONG :) :"AND:" MOAR" BTW ESC
+
 BTW OPRATORZ
 SUM OF <x> AN <y>       BTW  +
 DIFF OF <x> AN <y>      BTW  -

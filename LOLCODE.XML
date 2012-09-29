@@ -7,14 +7,14 @@
         </Settings>
         <KeywordLists>
             <Keywords name="Delimiters">&quot;00&quot;00</Keywords>
-            <Keywords name="Folder+"> WTF? HOW IN RLY?</Keywords>
-            <Keywords name="Folder-">OIC SO OUTTA </Keywords>
+            <Keywords name="Folder+">WTF? HOW IN RLY?</Keywords>
+            <Keywords name="Folder-">OIC SO OUTTA</Keywords>
             <Keywords name="Operators"></Keywords>
             <Keywords name="Comment">1OBTW 2TLDR 0BTW 0^^</Keywords>
             <Keywords name="Words1">YARN NUMBR NUMBAR TROOF NOOB</Keywords>
             <Keywords name="Words2">SUM OF DIFF PRODUKT QUOSHUNT MOD BIGGR SMALLR BOTH EITHER WON NOT ALL ANY SAEM DIFFRINT AN SMOOSH MKAY MAEK AND OR XOR</Keywords>
-            <Keywords name="Words3">HAI KTHXBYE I HAS A ITZ R VISIBLE GIMMEH IS NOW</Keywords>
-            <Keywords name="Words4">OMG OMGWTF TIL WILE FOUND GTFO DUZ U SAY IF O YA RLY MEBBE NO WAI IM YR </Keywords>
+            <Keywords name="Words3">HAI KTHXBYE I HAS A ITZ R VISIBLE GIMMEH IS NOW HAI,</Keywords>
+            <Keywords name="Words4">OMG OMGWTF TIL WILE FOUND GTFO DUZ U SAY IF O YA RLY MEBBE NO WAI IM YR RLY, WAI,</Keywords>
         </KeywordLists>
         <Styles>
             <WordsStyle name="DEFAULT" styleID="11" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
