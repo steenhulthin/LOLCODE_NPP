@@ -8,7 +8,7 @@ HAI
 CAN I HAS TEH DOWNLOADZ_
 --------------------
 
-.. _DOWNLOADZ: http://steen.hulthin.dk/opensource/LOLCODE_NPP/downloads/reStructuredText_v0.1.zip
+.. _DOWNLOADZ: http://steen.hulthin.dk/opensource/LOLCODE_NPP/downloads/LOLCODE_v_0.1.zip
 
 CAN I HAS TEH LISENSE_
 ----------------------
